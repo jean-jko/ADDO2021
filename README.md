@@ -84,7 +84,7 @@ Facing with many CI/CD toolings on the market, this page documents how to choose
 | ------- | ------------------- | --------- | --- |
 | Argo CD | &#10004; | &#10004; | &#10004; |
 | AWS CodePipeline | Limited | Limited (with step functions) | |
-| Azure Pipeline | &#10004; | &#10004; | 
+| Azure Pipeline | &#10004; | &#10004; | &#10004;
 | Bamboo  | | | &#10004;
 | BuildKite | &#10004; | | &#10004;
 | CircleCI | &#10004; | limited with orbs | &#10004;
@@ -92,7 +92,7 @@ Facing with many CI/CD toolings on the market, this page documents how to choose
 | DroneCI  | &#10004; | | &#10004;
 | Flux    | &#10004; | &#10004; | &#10004;
 | Flagger | &#10004; | &#10004; | &#10004;
-| Github Actions | &#10004; | &#10004; | &#10004;
+| Github Actions | &#10004; | limited | &#10004;
 | GitLab | &#10004; | &#10004; | &#10004;
 | Go CD | &#10004; | |  &#10004;
 | Google Cloud Build | &#10004; | &#10004; | &#10004; | 
@@ -138,7 +138,7 @@ Facing with many CI/CD toolings on the market, this page documents how to choose
 | Bamboo  |  | &#10004; | &#10004; | &#10004;
 | BuildKite | &#10004; | &#10004; | &#10004; | &#10004;|
 | CircleCI | &#10004; | &#10004; | &#10004; Vault/ENV var/ | &#10004;
-| CloudBees | &#10004; | &#10004; | &#10004; | &#10004;
+| CloudBees | &#10004; | &#10004; | &#10004; with plugin | &#10004;
 | DroneCI  | &#10004; | | &#10004;Vault/KMS/3rd | &#10004;
 | Flux    | &#10004; |  | &#10004; | 
 | Flagger | &#10004; |  | |
