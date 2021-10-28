@@ -26,7 +26,7 @@ Facing with many CI/CD toolings on the market, this page documents how to choose
 | Jenkins X | &#10004; | &#10004; | 
 | Spinnaker | &#10004; | | 
 | Team City | | &#10004; | Per User & Per pipeline minute
-| Tekton | &#10004; | |
+| Tekton | | &#10004; |
 | Travis CI Enterprise | | &#10004; | Per concurrent job & Per pipeline minute| 
 
 ## **Function** - CI vs. CD
